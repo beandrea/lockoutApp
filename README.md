@@ -1,3 +1,3 @@
-# lockoutAp
-# Requires inquirer
+# LockoutApp
+# Requirements: mysql
 # Licenses: Creative Commons
